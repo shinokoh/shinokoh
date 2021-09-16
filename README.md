@@ -1,3 +1,9 @@
+</br>
+<p align="left">
+<a href="https://www.instagram.com/jantwentyslnok/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
+<a href="링크" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Blog&logoColor=white"/></a> &nbsp </p>
+
+
 <h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="left">
