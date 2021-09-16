@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-<a href="https://www.instagram.com/jantwentyslnok/" target="_blank"><img src="https://img.shields.io/badge/Jantwentyslnok-#B42E65?style=for-the-badge&logo=instagram&logoColor=#FBF7F9"/></a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinokoh&show_icons=true&theme=radical)
