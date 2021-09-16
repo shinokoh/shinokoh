@@ -1,4 +1,4 @@
-## Hi There 
+<h3 align="left"><b> Hi there 💚 :) </b></h3>
 </br>
 <p align="left">
 <a href="https://www.instagram.com/jantwentyslnok/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
@@ -6,7 +6,7 @@
 <a href="링크" target="_blank"><img src="https://img.shields.io/badge/Blog-F05032?style=flat-square&logo=Naver&logoColor=white"/></a> &nbsp </p>
 
 
-<h3 align="left"><b>� Tech Stack �</b></h3>
+<h3 align="left"><b> Tech Stack </b></h3>
 </br>
 <p align="left">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> &nbsp
