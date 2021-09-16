@@ -8,8 +8,8 @@
 <!-- <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> &nbsp -->
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R%2B%2B&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop%2B%2B&logoColor=white"/></a> &nbsp  </p>
+<img src="https://img.shields.io/badge/R-00599C?style=flat-square&logo=R&logoColor=white"/></a> &nbsp </p>
+
 
 
 
