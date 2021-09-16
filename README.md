@@ -1,6 +1,6 @@
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a> &nbsp
